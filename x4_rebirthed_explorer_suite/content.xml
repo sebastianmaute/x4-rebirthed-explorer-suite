@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content id="x4_rebirthed_explorer_suite" name="X4 Rebirthed Explorer Suite" description="Merged, X4 v9-updated suite of JanPanthera's Explorer mods: abandoned-ship, object, datavault, spiral (fog) and trade-subscription explorers, plus the shared script library. Based on JanPanthera's Explorer mods (GPL)." author="sebastianmaute" version="900" date="2026-07-06" save="0" enabled="1">
+   <dependency version="900"/>
+</content>

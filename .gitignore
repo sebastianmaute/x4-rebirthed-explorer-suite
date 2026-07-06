@@ -1,0 +1,7 @@
+# Packed archives are build artifacts, not source — distribute via Releases.
+*.cat
+*.dat
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<icons>
+   <icon name="order_x4re_abandonedshipexplorerg" texture="assets\fx\gui\textures\order\order_recon.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_anotherexplorerg" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_anotherexplorers" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_datavaultexplorerg" texture="assets\fx\gui\textures\order\order_recon.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_ae_uncoverobject" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_ase_boardabandonedship" texture="assets\fx\gui\textures\order\order_board.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_ase_markabandonedship" texture="assets\fx\gui\textures\order\order_deployobjectatposition.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_ase_movetoabandonedship" texture="assets\fx\gui\textures\order\order_movetoobject.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_dve_markdatavault" texture="assets\fx\gui\textures\order\order_deployobjectatposition.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_idlereturnhome" texture="assets\fx\gui\textures\order\order_wait.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_movethroughgate" texture="assets\fx\gui\textures\order\order_movewait.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_movetoobject" texture="assets\fx\gui\textures\order\order_movetoobject.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_movetoposition" texture="assets\fx\gui\textures\order\order_movewait.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_movetosector" texture="assets\fx\gui\textures\order\order_movewait.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_se_uncoversector" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_lib_tse_updatesubscription" texture="assets\fx\gui\textures\order\order_exploreupdate.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_spiralexplorerg" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_spiralexplorers" texture="assets\fx\gui\textures\order\order_explore.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_tradesubscriptionexplorerg" texture="assets\fx\gui\textures\order\order_recon.tga" height="32" width="32"></icon>
+   <icon name="order_x4re_tradesubscriptionexplorers" texture="assets\fx\gui\textures\order\order_recon.tga" height="32" width="32"></icon>
+</icons>

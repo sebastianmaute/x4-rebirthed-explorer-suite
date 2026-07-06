@@ -1,0 +1,10 @@
+X4 Rebirthed Explorer Suite
+Based on JanPanthera's Explorer mods (GPL): JP_ScriptLibrary, JP_AbandonedShipExplorer,
+JP_AnotherExplorer, JP_DataVaultExplorer, JP_SpiralExplorer, JP_TradeSubscriptionExplorer.
+
+v900 (2026-07-06)
+- Merged the six mods into one extension; folded JP_ScriptLibrary in (no external dependency).
+- Reconciled the divergent vanilla-order diff patches (order.dock.wait, order.assist)
+  into one unified diff each, fixing the mutual conflict the six mods had when co-installed.
+- Full rebrand to the x4re_ family; text page 8888888 -> 28900000.
+- Updated for X4 Foundations v9.00 (dependency version=900).
